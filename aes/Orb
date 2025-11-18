@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Orb">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Orb Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="When knowledge is a character" />
+		<meta property="og:description" content="Read RShift's Orb review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Orb.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Orb" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Orb Review"/>
+		<meta property="og:color" content="#4c76ff" /> <!-- Accent color 1-->
+		<meta name="theme-color" content="#4c76ff"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #000216;
+			--background-color3: #000427;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #4c76ff;
+			--accent-color2: #c2d0ff;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to AES page</a></div>
+			<div class="app">
+				<h1 style="text-decoration: dashed underline var(--accent-color1) 1px;">You found this too soon, it's not finished yet !</h1>
+				<h1 class="subtitled">Orb: On the Movement of Earth</h1>
+				<h4><i>Chi. Chikyuu no Undou ni Tsuite</i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Orb.webp" alt="Volume 8 cover" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Challenge</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>pepe</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>8/8 volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Uoto</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2020-2022</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Religion, Philosophy, Astronomy</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/124139/Orb-On-the-Movements-of-the-Earth/">Anilist</a></td></tr>
+                </table>
+				<h2>When knowledge is a character</h2>
+			</div>
+		</div>
+	</body>
+</html>

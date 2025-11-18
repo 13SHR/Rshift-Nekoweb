@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<title>Claymore Review</title>
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="Was this an SNK prequel?" />
+		<meta property="og:description" content="Read my Claymore review right now !" />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Claymore.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Claymore" />
+		<meta property="og:type" content="website" />
+
+		<style>
+		:root {
+			--background-color1: #0D1117;
+			--background-color2: #1f2d3d;
+			--background-color3: #2f3d4d;
+			--text-color: #e9e1e9;
+			--subtext-color: #e9e1e977;
+			--accent-color1: #d0786f;
+			--accent-color2: #e4a9a0;
+			--overlay-color: #000a;
+			--link-color: var(--accent-color1);
+			--link-color-hover: var(--accent-color2);
+			/* Invert = on accent color 1 */
+			--invert-text-color: var(--text-color);
+			--invert-accent1: var(--text-color);
+			--invert-accent2: #452c21;
+		}
+		</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to AES page</a></div>
+			<div class="app">
+				<h1>Claymore</h1>
+                <hr>
+                <table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Claymore.webp" alt="Volume 19 cover" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Base</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>pepe</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>27/27 volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Norihiro Yagi</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2001-2014</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Shounen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Dark Fantasy, Adventure</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/30583/Claymore/">Anilist</a></td></tr>
+                </table>
+                <h2 id="r-title">Was this an SNK prequel?</h2>
+<p>At first sight, Claymore might look like a mediocre manga with an old style and characters having not quite good-looking faces. Even the story starts poorly, since nothing is really set up in the first volumes, and the main character, Raki, is just a dumb annoying child crying for no reason. Hopefully, he is not the main character, and the real story starts with the one of Clare.</p>
+<p>Starting from this point, I would say the story is divided into 3 parts: 
+    <ol>
+        <li>The incipit, where the situation, characters, abilities, etc., are shown and explained</li>
+        <li>The pre-battle of the north, including this battle and the few chapters afterwards</li>
+        <li>The post-island, when the seven warriors go to destroy the organization. </li>
+    </ol>
+</p>
+<p>The first and last part are long and pretty slow, but the island revelation makes it way more interesting to read. In fact, the story is always slow because of the detailed fights and the moments where they talk or think. </p>
+<p>Even if the volume 15 revelation is quite a shock, I thought the plot would evolve a lot more than just destroying the organization. It seems like half of the real lore is completely different behind a sense of justice that warriors want to fulfil, the dragon descendants are shown only twice (and die 5 pages later), the spy does nothing except leaving, and there is no hint of what is the continent alike.</p>
+<p>Unfortunately, there are some grim spots in the story, where things get unclear or incoherent. Teresa died fighting Priscilla because she was surprised by her awakening, but a bonus chapter shows her beating an awakened black card. Also, some aspects of the complex techniques remain very blurry (Yoma synchronization, mind control for awakening twin, memory erasure etc), and are used to completely change the outcome of a fight... thus it feels a little artificial.</p>
+<p>The last thing I could say is that the final arc, between the organization's end and the very end, it takes two volumes to develop the characterization of Priscilla, how strong she really is, but the real final fight lasts like 1 or 2 chapters, because Clare awakens and becomes Teresa, then Teresa mysteriously awakens in an overpowered angel (and we don't see her power anywhere).</p>
+<h2>Characters</h2>
+<p>Having mostly females in the story didn't reduce at all the diversity of personalities. It's rather the contrary, women are always depicted as following their own will, fighting for themselves, while the few men that appear just fight for power and strength, without showing an interest for anything else than battle. And this behaviour also exists for the strong females warriors: they often have the same "I'm better than you since I'm strong, I can flame you and act strong haha" and after a battle "Oh no I'm not, I lost because of the unbelievable [...]". In general, there is a very emphasized importance given to the numbers of the warriors, how many times did I read something similar to "be careful she's a number 2 that's 3 times better than number 3" ?</p>
+<p>However, what warriors have in common is a sense of honour that goes beyond anything logical, they are said to be completely loyal to the organization because of their education, but afterwards dedicate their life to someone who saved them. Like the first one rescued by the north survivors says "I can't help you but if you kidnapped me I could have" and ends up being a messenger and fighter for them. This is not really realistic since she said she had a very strong link with the organization, having saved her as a child.</p>
+<p>Eventually, some characters (Raki) seem to not evolve much and remain very annoying, but it's part of the plot so nothing much to say, except that the way he solves everything is sometimes weird (liberating Clare from the two abyssal beings with his voice)</p>
+<h2>Visuals</h2>
+<p>Drawing goes from bottom to peak, especially chapter covers and people's faces, while the design of awakened is just very diverse and detailed. The characterization of people has really improved passed the north battle, and new warriors have diverse and beautiful haircuts that make them easy to recognize. Is it landscapes, chapter covers, volume covers, detailed view of monsters, everything is drawn better and better through the volumes, and gets up to a very satisfying point of mix between realism, imagination and a bit of body horror &mdash; okay more than a bit. Additionally, the mangaka completely mastered how to depict a fight and warriors' reactions to new abilities and techniques.</p>
+<p>The only thing I could complain about &mdash; everyone told me that I'm just not used to this type of manga &mdash; is that women are drawn naked for no reason. And they are everywhere !
+Awakened men are like insects, with completely different silhouettes of animals, while awakened women almost always keep a humanoid shape of a female body, and often even have part of their body &mdash; of course not only their head but their chest too &mdash; remaining on top of their awakened form.
+Sometimes claymores are drawn naked in a panel, after coming back from awakening, but then poof armor appear out of nowhere and next page they are not any more.
+This is not dramatic, but I always feel uneasy when reading such panels, since I find no reason for these bodies to be exposed.</p>
+<p>There is this aspect of the half Yoma that is described in the first volumes, being the body modification due to becoming a warrior. I thought it would be something unceasing to see since Teresa made bandits flee with her body, but in fact it's pretty much nothing, and it is not used at all in the story, so I find no other purpose than increasing the body horror of the warriors.</p>
+
+<h2>Conclusion</h2>
+<p>This manga was difficult to trust, and demand quite some efforts to go through the first 10 or 15 volumes, but the following ones are way more pleasant to read, and times flies by itself when reading ! Despite all the slight shortcomings that I described, these often don't interfere with the flow of the story. I'll give it an <b>8.5/10</b> !</p>
+<p>I will end with an anecdote: the name of the island's centre is Toulouse, which is also&#8230; my own city !</p>
+			</div>
+		</div>
+	</body>
+</html>
