@@ -12,7 +12,7 @@
 		<title>Orb Review</title>
 
 		<!-- Discord Embed -->
-		<meta property="og:title" content="When knowledge is a character" />
+		<meta property="og:title" content="Can knowledge be the main character ?" />
 		<meta property="og:description" content="Read RShift's Orb review right now ! This is a contract from Season X of Anicord Event Server." />
 		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Orb.webp" />
 		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Orb" />
@@ -23,18 +23,17 @@
 		<meta property="og:image:height" content="1024"/>
 		<meta property="og:image:type" content="image/webp"/>
 		<meta property="og:image:alt" content="Orb Review"/>
-		<meta property="og:color" content="#4c76ff" /> <!-- Accent color 1-->
-		<meta name="theme-color" content="#4c76ff"  /> <!-- Accent color 1-->
+		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
 
 		<style>
 		:root {
 			--background-color1: #000;
-			--background-color2: #000216;
-			--background-color3: #000427;
+			--background-color2: #1a1110;
+			--background-color3: #650002;
 			--text-color: #fff0f0;
 			--subtext-color: #e2dbdb;
-			--accent-color1: #4c76ff;
-			--accent-color2: #c2d0ff;
+			--accent-color1: #ef3038;
+			--accent-color2: #73221f;
 			--link-color: #c2d0ff;
 			--link-color-hover: #d9e2ff;
 			/* Invert = on accent color 1 */
@@ -55,9 +54,8 @@
 	<body>
 		<script src="../oneko.js"></script>
 		<div class="window content">
-			<div class="header mono invert"><a href="."><- Go back to AES page</a></div>
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
 			<div class="app">
-				<h1 style="text-decoration: dashed underline var(--accent-color1) 1px;">You found this too soon, it's not finished yet !</h1>
 				<h1 class="subtitled">Orb: On the Movement of Earth</h1>
 				<h4><i>Chi. Chikyuu no Undou ni Tsuite</i></h4>
                 <hr>
@@ -77,7 +75,91 @@
 					<tr><th class="info-label">Genre: </th><td>Religion, Philosophy, Astronomy</td></tr>
                     <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/124139/Orb-On-the-Movements-of-the-Earth/">Anilist</a></td></tr>
                 </table>
-				<h2>When knowledge is a character</h2>
+<h2>Can knowledge be the main character ?</h2>
+<p>When I started to read Orb, I didn't know anything about the story, and found
+an interesting one in Rafal's ventures in astronomy. What quickly became obvious
+was how gore some scenes are, and that Rafal has an incredible scientific 
+intuition when it comes to completely think against the natural laws he knew. 
+Like, he established the basic laws of heliocentric theory in less that a week, 
+studying only during the night because he's still a high school student.</p>
+
+<p>This beginning was rather interesting, because the author sets the "inception" 
+concept: when an idea is in somebody's mind, it will stay forever. However, I 
+didn't expect the story to take this dramatic turn to its end, making Rafal go 
+to death in 150 pages, while the manga has 7 volumes following. This is when 
+I understood that no character would last long.</p>
+
+<p>Unfortunately my feelings turned out to a worse reality. Most of the parts in
+the manga give this feeling of a series of small stories about various people 
+believing in the same theorem, but only linked by this thin belief. 
+I completely understand the philosophical meaning described by this lingering 
+idea that grows stronger and stronger between generations, but it inevitably creates
+characters that are either underdeveloped, exaggerated, or ephemeral. Either 
+way, it's hard for me to cling to a story without a character whom I can follow
+the thoughts, the feelings, the fears etc.</p>
+
+<p>In general, this manga has a great potential of philosophy, and can be 
+enjoyed as a dark reading. I found way too much gore for me, but it only depicts
+the situation in Europe back then. I even think this is a way to convey that if
+a mere mortal is frail and fragile, the thoughts he puts on paper and passes to
+the next generations is almost immortal, and thus the truth is the strongest 
+among humans. This is obviously a romanticised utopia of science and knowledge,
+that falls into unrealism when it comes to people learning and discovering 
+things.</p>
+
+<p>The end of the story represents really well what I mean. The (newly main) 
+character hears about the theory randomly, thinks "It's dumb. But what if ???", 
+he is drawn pensive, and a bunch of lines describes the evolution of heliocentrism 
+for the following years. I don't know if I'm being stubborn about how scientific 
+thoughts should occur, but this is clearly not a satisfying way to describe 
+someone building up the one of the most important theory of that era, and the
+manga ended on a bitter note for me.</p>
+
+<h3>More about characters</h3>
+
+<p>As I said in the introduction, most of the characters are not deeply developed,
+because they don't have enough time to be. Some of them are an absolute 
+representation of their personality, or fall behind the stereotypes of the other 
+characters, like Oczy who only follows the scientists without a proper personal 
+goal. It would be wrong however to say that all of them were uninteresting, and
+they all hold a bit of a particularity that make them meaningful to the story.
+The story witnesses the evolution of Nowak, who is clearly the most convinced 
+character overall, going from a simple anti-heliocentric to someone dedicated to
+his beliefs, questioning himself when his end is near, just like Piast. Since
+he is the character surviving the longest, the lore around him slowly develops,
+and he represents very well the lingering adversity.</p>
+
+<p>If the short-lived characters didn't help to get attached to them, it's a 
+shame that new characters are never introduced relative to others, but only as
+themselves. Some appear out of nowhere, others become the subject of the story
+without reason, and they only convey to the same point thanks to the evolution 
+of the plot.</p>
+
+<h3>A little note about visuals</h3>
+
+<p>The overall art feels really modern, even a bit sketchy in the beginning,
+but it didn't really bother me. In fact, as I read mostly on my computer, I
+could see some page-to-page transitions that were pretty well made, and the drawings
+quickly evolve toward a more mastered feeling — faces are more consistent, wide
+landscapes become more detailed etc. I didn't pay attention to the stars and sky 
+representation however, since I don't know much about astronomy.</p>
+
+<p>Again, it was all too much gore for me, and even if <em>most</em> of the scenes
+are not too explicit, they are brutal in their own way of describing the events.
+I don't know if the anime removed some gore episodes, but I think it would be even
+worse when animated and with sound.</p>
+
+<h2>Conclusion</h2>
+
+<p>It was a pretty tough reading, not because of the plot, but rather because of
+a lot of things around, like the characters and visuals. In the end, even if I
+think I kind of understand the meaning of the story, I don't keep an overall good
+memory of this manga, which is definitely personal. I would still recommend 
+reading it, keeping in mind that it is gore and not realistic enough to be read 
+as a classic adventure.</p> 
+
+<p>I give Orb a good but could-be-better <strong>7/10</strong>.</p>
+
 			</div>
 		</div>
 	</body>
