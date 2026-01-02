@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Mushishi">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Mushishi Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="Japanese nature trough its tales" />
+		<meta property="og:description" content="Read RShift's Mushishi review ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Mushishi.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Mushishi" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Mushishi Review"/>
+		<meta name="theme-color" content="#13bf00"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #e8e8e8;
+			--background-color2: #f0f0f0;
+			--background-color3: #d7e8da;
+			--text-color: #1a1f23;
+			--subtext-color: #383e42;
+			--accent-color1: #13bf00;
+			--accent-color2: #48c33d;
+			--link-color: #73221f;
+			--link-color-hover: #00ff19;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Mushishi</h1>
+				<h4><i>蟲師</i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Mushishi.webp" alt="Volume 4 cover" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Buddy Base</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Mclife</td></tr>
+                    <tr><th class="info-label">Buddy: </th><td>HidinNightmares</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>5/10 volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Yuki Urushibara</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>1999-2008</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Supernatural, Slice of Life, Health</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/30418/Mushishi/">Anilist</a></td></tr>
+                </table>
+<h2>Japanese nature trough its tales</h2>
+<p>This manga follows the life of Ginko as a mushishi, someone who studies the mushi, but I would rather describe it as a collection of tales that all link to that character. In fact, it's only at the end of the second volume that we learn more about his past, in a very mysterious story.</p>
+<p>The graphic style of the manga clearly sets a "traditional" atmosphere, and it is wonderful in all ways: the emotions of characters are easily understood, 
+			</div>
+		</div>
+	</body>
+</html>
