@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Blood-On-The-Tracks">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Blood On The Tracks - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content='"Did it really upset you that much that I choked you ?"' />
+		<meta property="og:description" content="Read RShift's Blood On The Tracks review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Blood-On-The-Tracks.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Blood-On-The-Tracks" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Orb Review"/>
+		<meta name="theme-color" content="#000"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #222;
+			--background-color3: #650002;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #000;
+			--accent-color2: #73221f;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}
+        body {
+            background-image: url("./cover/frame.webp");
+            background-repeat: repeat;
+            background-size: 16%;
+        }</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Blood On The Tracks</h1>
+				<h4><i>Chi no Wadachi</i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Blood-On-The-Tracks.webp" alt="Volume 8 cover" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Duality Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>17/17 volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Oshimi Shūzō</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2017-2023</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+                    <tr><th class="info-label">Genre: </th><td>Psychological Horror<br>Tragedy<br>Coming-of-age</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/98397/Blood-on-the-Tracks/">Anilist</a></td></tr>
+                </table>
+<h2>"Did it upset you that much that I choked you ?"</h2>
+<p>Welcome to my review about Blood On The Tracks ! Today I'm glad to talk about an author I discovered recently, and whom art and stories really interest me. I read almost all the series at night in my bed, which created the perfect atmosphere of silence and darkness for this manga.</p>
+
+<p>The point of view is obviously the one of the son, Seiichi. This point of view makes his thoughts clear to the reader, but shows also when his mind is blurry, when he can't understand the world anymore, when he can't understand his mother anymore. And during those moments, the graphic style of Oshimi creates this feeling of distress using hard lines of pencil to create shapes. I really love the way these lines convey so much emotions, and contribute to the tense atmosphere and psychological horror. It pushes the details of characters' reactions to a point where they may sometimes feels exaggerated, but that add up to the creepy style of the story.
+The metaphors and hallucinations he and Seiko have are full of meaning, when they see each other as a baby or as a child, since they both share the same link to the past.
+</p>
+
+<p>What impressed me in this manga is how much I was involved in the story, and how easily I was caught by the story every time, and I think it is because it is possible to feel what Seiichi feels, that is fear, disorientation, happiness, sorrow... I went through all of these just by reading his story. And when he loses control of himself in the child detention center, I could also feel that loss of contact with the outer world, that is the reader.
+This connection with Seiichi was strong to a point that when he was on a "date" with Fukiishi on the bench, and his mom appeared saying "I found you", running like a shadow toward them, I lived this as a real screamer, even if these few frames where on 2 pages. I remember fearing what would happen to them, as I was already traumatized by the scene in the kitchen when Seiko strangles Sei (cf the title). And I felt safe when they escaped in her home etc. The work made to convey the emotions is truly astonishing in this manga.</p>
+
+<p>From an outside point of view, it was hard to read this story where the mother controls her child, with every method one could think about, and even more painful to understand that when growing up, this control never goes away, lingering like a deep disease, hidden in the depth of his mind. In all the moments when he could have rejected his mother, he would always eventually go back to her, against his own will, even after years without seeing her, when he's become a worker. Even worse, the manga progressively shows the effects of such a psychological control over time, leaving him alone in a society he couldn't bear with anymore.<br>
+However, it was difficult to follow what went through his mind when he couldn't figure out what the truth was regarding Shigeru's fall. As the story was followed through his point of view, it was pretty unsure if what happened in the previous chapters was true, and it made the event a bit harder to follow. Also, I found that Shigeru's role was really limited - maybe on purpose - since he only could raise the doubts of Sei's aunt, but only acted as a lever for Seiko's control over her son.<br>
+Eventually, I think it's a shame that he and Fukiishi could not speak to each other as adults, since it would certainly have bettered the life of both. And I would have love to know what they would have said, what would come to their mind first when thinking about each other.</p>
+
+<h3>Conclusion</h3>
+<p>This manga made me go through all emotions the main character lived, and I could truly feel the psychological horror I was waiting for. It absolutely impacted my mind back then, I remember dreaming that I was sleeping with my mom and saw a cat on the floor. And this impact will surely linger, since the story showed the horrors a relationship could do. When I watched "One flew over the cuckoo's nest", there is someone, mentally weak, threatened by a nurse to tell things to his mother, and I was shocked by how the reaction of the actor was similar to what Seiichi would have had in the manga. Those pieces that stay in mind like a mark only deserve a 10/10.</p>
+			</div>
+		</div>
+	</body>
+</html>
