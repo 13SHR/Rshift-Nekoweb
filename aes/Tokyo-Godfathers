@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Tokyo-Godfathers">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Tokyo Godfathers - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="An endearing realism of Christmas" />
+		<meta property="og:description" content="Read RShift's Tokyo Godfathers review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Tokyo-Godfathers.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Tokyo-Godfathers" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Orb Review"/>
+		<meta name="theme-color" content="#ca3900"/> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #212121;
+			--background-color2: #313131;
+			--background-color3: #390a00;
+			--text-color: #ffffff;
+			--subtext-color: #cccccc;
+			--accent-color1: #ca3900;
+			--accent-color2: #a00000;
+			--link-color: #db4900;
+			--link-color-hover: #db4900;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}
+        </style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Tokyo Godfathers</h1>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Tokyo-Godfathers.webp" alt="Movie Poster" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Mid-Season Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>Yep !</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Movie</td></tr>
+					<tr><th class="info-label">Author: </th><td>Satoshi Kon</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2003</td></th></tr>
+                    <tr><th class="info-label">Genre: </th><td>Comedy, Christmas, <br>Found Family, Tragedy</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/anime/759/Tokyo-Godfathers/">Anilist</a></td></tr>
+                </table>
+<h2>An endearing realism of Christmas</h2>
+<p>Let's be honest, I usually don't like what people call "Christmas Movie". These movies often fall into classic stories, without any specificity nor quality. Hopefully, Tokyo Godfathers proves that Christmas is a subject, more than a classification. This film contains more than enough specific characteristics, while its quality actually blew my mind, especially when compared to some modern shows.</p>
+
+<h3>Story</h3>
+<p>The story seems simple at the beginning: 3 homeless people find a baby in the street, and must decide what to do with her. But Satoshi Kon had something else in mind, this isn't that simple. In fact it goes in all possible directions one could think about, making the movie pleasantly unpredictable. In every moment, the ingenuousness of a christmas atmosphere brought me to smile, while the absolutely random elements ongoing kept me captivated – in short, the 92 minutes went by in a flash. <br>
+What's impressive is that even if the events seem to come out of nowhere, they come together as a very comprehensible and linear story, that tells us about how the Japanese society reacts to the homeless ones, how they build and consider family, and how human's morals change lives.</p>
+
+<h3>Characters</h3>
+<p>Every single character holds a unique personality and point of view through the movie. Each one has an obstacle to overcome, want to have a real family, have their own dream... So much emotions flow out of them that they feel real, they feel like a real human is depicted, and that only a human could have written their personalities. The characters, even the background ones, are clearly what make this film a good one, and fully creates its deepness.</p>
+			</div>
+		</div>
+	</body>
+</html>
