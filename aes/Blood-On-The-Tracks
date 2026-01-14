@@ -41,10 +41,9 @@
 			--invert-accent1: white;
 			--invert-accent2: white;
 		}
-        body {
+        html {
             background-image: url("./cover/frame.webp");
             background-repeat: repeat;
-            background-size: 16%;
         }</style>
 
 		<!-- Import Google Fonts -->
