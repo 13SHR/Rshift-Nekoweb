@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Basara">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Basara - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="A dive into ancient shoujo manga style" />
+		<meta property="og:description" content="Read RShift's Basara review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Basara.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Basara" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Basara Review"/>
+		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #1a1110;
+			--background-color3: #003605;
+			--text-color: #f0f0f0;
+			--subtext-color: #dbdbdb;
+			--accent-color1: #71db00;
+			--accent-color2: #aeff86;
+			--link-color: #71db00;
+			--link-color-hover: #73221f;
+			/* Invert = on accent color 1 */
+			--invert-text-color: black;
+			--invert-accent1: black;
+			--invert-accent2: black;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Basara</h1>
+				<h4><i></i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Basara.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Epoch Special (Origin)</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>10/27 Volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Yumi Tamura</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>1990-1998</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Shoujo</td></tr>
+					<tr><th class="info-label">Genre: </th><td>War, Romance, Coming of Age</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/30974/Basara/">Anilist</a></td></tr>
+                </table>
+<h2>A dive into ancient shoujo manga style</h2>
+<p>Welcome to my review of Basara ! It is a pretty long series, containing 27 volumes, and I only read about 10 volumes, because it feels a bit too much to read all of this at once. Thus, it's very probable that I finish the remaining volumes in a near future, but it'll be after I finish some of the series I really want to discover. Anyway, let's dive into the review !</p>
+
+<h3>Story</h3>
+<p>I had a bit of troubles in the beginning to follow the story at the beginning, because of how blurry the events are. In fact, I didn't even understand who really survived between Sarasa and Tatara, since both look quite similar, and thus it was difficult to tell what was happening. Hopefully, after the first volume, the story becomes clear, and it is easy to tell what's the main plot, what Sarasa has to do, and who is helping her. <br>
+This minor setback aside, the plot is divided in arcs. Some of them follow a classical story scheme of a character evolving through difficulty, while others are completely different, such as the island where Sarasa and Shuri meet for a while. These latter arcs are the most interesting ones, because they show the relationships evolve, and various subjects are covered, is it politics or medicine. <br>
+My favorite arc would be the one with the false Blue King, since both Sarasa and Shuri work together, and they encounter a lot of new characters that remain in the next chapters, and are quite interesting. It is also because even if the king's is a main subject, it is not always shown blatantly, and violence is almost always metaphoric, implicit or hidden. And still, the ambient danger is palpable, violence is everywhere.<br>
+I would only say that sometimes, the sudden turns of events are a bit weird, and feel to come out of nowhere. The battle between pirates and red king, for example, ends with a forbidden mountain erupting from water and helping people... In fact I'm not even sure it's exactly what happened, because I find that turnarounds like these are not easily understandable. Hopefully, they are not common, and everything is mostly fine.</p>
+
+<h3>Characters</h3>
+<p>The characters are divided in 3 categories: the villains, the heroes, and Ageha. The villains are all despicable, because they are violent and only seek power, and this includes Shuri. The heroes are caring and would die for Tatara, and eventually, Ageha is somewhere in between, useful for everyone and mysterious as always. This is a pretty simple yet efficient way to build up characters, 
+
+<h3>Conclusion</h3>
+<p></p>
+			</div>
+		</div>
+	</body>
+</html>
