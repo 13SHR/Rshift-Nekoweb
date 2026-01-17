@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Baccano">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Baccano! - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="When New York holds fantasy" />
+		<meta property="og:description" content="Read RShift's Baccano! review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Baccano.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Baccano" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Baccano! Review"/>
+		<meta name="theme-color" content="#773100"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #1f2d3d;
+			--background-color3: #4b2f00;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #773100;
+			--accent-color2: #FF7004;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Baccano!</h1>
+				<h4><i></i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Baccano.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Novelist Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>3/? Volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Light Novel</td></tr>
+					<tr><th class="info-label">Author: </th><td>Ryougo Narita</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2003</td></th></tr>
+					<tr><th class="info-label">Genre: </th><td>Historical, Mafia, Fantasy</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/31342/Baccano/">Anilist</a></td></tr>
+                </table>
+<h2>When New York holds fantasy</h2>
+<p>Welcome to this review about Baccano!, my first Light Novel I ever read ! It took me some time to choose this one for the Honzuki Special, I tried various ones and this is the LN I went with, because it doesn't have very dumb character or a harem holder... The choice was easy to make after all. Reading this was quite an adventure, I would have never thought it takes that much time to read a volume... Maybe it's because I'm not that fluent in English, but I think it took me like 13 hours or so per volume. Anyway, let's dive into it.</p>
+<p>What caught my eye quickly is the way the novel is written. Everything is narrated at first person, and the main character is obviously lost. And a few pages later, we're gone out of him, and fall into the story of an alchemist, while a few paragraphs later, we're completely out of the point, following the actions of Mafiosi. I found it quite difficult to follow everything, since there is a certain amount of characters, and the point of view (and point of thoughts too) changes very often. I found myself reading back several paragraphs because I couldn't understand who was who... That explains the 13 hours.<br>
+The later events were quite surprising, and I loved exploring the outcomes of the events. I'll try not to spoil that much, but my favorite development of the first volume was seeing the Firo and Ennis slowly growing up in their own way, and get to understand immortality better, and see what immortality changed in the underground. It somewhat became philosophical when it explores what people could do with immortality, like Bagetta and the other Mafia that have to deal with this new issue. What really impressed me is the talent that Isaac and Miria have to do completely random things and still be so much relevant to the plot, without being serious at all (I mean, I'm not even sure they have brain cells, and the narrator thinks that too).I ended the volume 3 with Huey becoming more important, and I heard that they would leave New York later, but I think I would be even more lost in the amount of locations and characters if it really does.</p>
+<p>The few illustration helped me picture what the illustrator thought about the characters, but they were always off with my imagination. Maybe it's because I'm used to read more books than LN, but I couldn't help picturing events in a "Gangs of New York" real movie style.</p>
+
+<h3>Conclusion</h3>
+<p>It might be because I am not used to Light Novel at all, but I felt a bit lost when reading it, and as I couldn't always read a lot of pages straight, I kept forgetting about previous events and characters. The overall style was pretty good though, and I liked the way it explores the fantasy of a 20th century. <br>
+I really don't know how to rate this since I have no reference, but I think I would grade it a 7/10.</p>
+			</div>
+		</div>
+	</body>
+</html>
