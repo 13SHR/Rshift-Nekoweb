@@ -28,7 +28,7 @@
 		<style>
 		:root {
 			--background-color1: #000;
-			--background-color2: #1a1110;
+			--background-color2: #1f2d3d;
 			--background-color3: #650002;
 			--text-color: #fff0f0;
 			--subtext-color: #e2dbdb;
@@ -75,10 +75,10 @@
 					<tr><th class="info-label">Genre: </th><td></td></tr>
                     <tr><th class="info-label">Link: </th><td><a href="">Anilist</a></td></tr>
                 </table>
-<h3></h3>
+<h2></h2>
 <p></p>
 
-<h2>Conclusion</h2>
+<h3>Conclusion</h3>
 <p></p>
 			</div>
 		</div>

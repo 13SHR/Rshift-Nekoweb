@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/ars/Usogui">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Usogui - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="When you try to match someone... but you just can't." />
+		<meta property="og:description" content="Read RShift's Usogui review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Usogui.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Usogui" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Usogui Review"/>
+		<meta name="theme-color" content="#f75fae"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #1f2d3d;
+			--background-color3: #390011;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #f75fae;
+			--accent-color2: #ff58ee;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Usogui</h1>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Usogui.webp" alt="" style="max-width:75%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Veteran Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Anatheras</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>5/49 Volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Toshio Sako</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2006-2017</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Gambling, Death Game, Genius</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/39982/Usogui/">Anilist</a></td></tr>
+                </table>
+<h2>When you try to match someone... but you just can't.</h2>
+<p>Welcome to my review about Usogui ! This one is a very long series (49 volumes !), and since I didn't really like what it looked like at the beginning, I only read 5 volumes. However, someone told me that the end of the manga was way better than its initial volumes, so I may read it after the other ones I really want to read.</p>
+
+<h3>Story</h3>
+<p>This manga is an anti-hero manga, since the main character, Takaomi, only follows one much more powerful gambler, Madarame or Usogui. The first few chapters are like very classic, they are broken, someone attack them, then they win big because Madarame is smart. But quickly, the story takes a U-turn with the Death Game in the building. It went from a classic gambling manga to 2 guys fighting for their life against professional assassins ? Wonderful ! Let's enjoy this arc of actions, clever moves, impressive mind control and even with character development. Marco makes his appearance, and has a whole past behind him, that is used perfectly by Usogui to help them win against the old man. To be fair, this group of chapter was real nice, even if the outcome was obvious since it was like volume 2 out of 49. There are a few hints that Kekerou staff might become more and more important later, since Yakou takes part in the game too, but nothing much here.<br>
+Afterward, we have a pretty boring phase where the main characters wants to act like his big brother, but nothings works, and then everything works because in fact Usogui planned all of this... In short, nothing that caught my eye. Here, it is clarified how Kakerou valuates lives, hold bids and manage danger, but still nothing too important.<br>
+The last arc happening in the five volumes is the battle against Sadakuni. This one is a death game, but this time Usogui is really the only one playing, and the others are mere spectators. If the game was interesting, and the outcome well thought, the scenes felt pretty slow, because there was no real stake for the main character, and pretty much nothing was explained for the remaining outside elements. I stopped just before a ranking battle, because I felt that this would be only yet another somehow easy to understand game but complicated cheating and all.</p>
+
+<h3>Characters</h3>
+<p>As I said earlier, the characters are pretty simply presented, with the main one being way underpowered compared to the famous guy. I don't really like the way both act. Madarame is somehow predictable in his intelligence, he will always appear where he should be, and thinks about plans as we would expect him to. Takaomi is hesitant, doesn't do anything smart when by himself, and is a mere spectator to most of the events in the manga. Both have no real past, which is normal for Usogui since it's the mystery of the manga, but make Takaomi much more difficult to cling to.<br>
+Hopefully, Marco is more interesting in term of character design. His life holds a meaning, and he tries to grow, fighting a chronic weakness and evolving through the help of others. I hope he will become an important character later.</p>
+
+<h3>Visuals</h3>
+<p>The overall visuals are quite impressive. The faces have very strong expressions, and the environments are full of realism, which helps to blend into the story in the moments of action. Also, the character design is quite cool, each one has a very distinctive trait that helps identifying them, and they all feel different. The covers are okay, but I think they improve a lot in the following volumes, as well as the overall quality of the work. Just look at the cover I chose for the little info box, they all look as insane at some point.<br>
+The manga may be a bit gore at times, but interestingly enough, I've never thought that it was too much. Violence is obviously omnipresent in the underground, is it physical or mental violence, and both are easily described in the manga.</p>
+
+<h3>Conclusion</h3>
+<p>I think it is normal for early manga, especially if they are long, to lack a bit of interest in the beginning. I'm sure that if it was only a 10 volumes series, I would feel way more motivated at reading the sometimes boring parts. It's a shame, since I'm sure it's even a good manga, but I'll try this later. Since it still has obvious qualities, I'll rate with a 5/10.</p>
+			</div>
+		</div>
+	</body>
+</html>
