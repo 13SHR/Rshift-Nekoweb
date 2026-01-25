@@ -6,23 +6,23 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<link rel="icon" href="../favicon.ico" sizes="any" />
-		<link rel="canonical" href="https://rshift.nekoweb.org/aes/TI-DASH">
+		<link rel="canonical" href="https://rshift.nekoweb.org/aes/Star-Vaders">
 		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
 		
-		<title>TI NDASH - Review</title>
+		<title>Star★Vaders - Review</title>
 
 		<!-- Discord Embed -->
-		<meta property="og:title" content="Can knowledge be the main character ?" />
-		<meta property="og:description" content="Read RShift's TI NDASH review right now ! This is a contract from Season X of Anicord Event Server." />
-		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/TI-DASH.webp" />
-		<meta property="og:url" content="https://rshift.nekoweb.org/aes/TI-DASH" />
+		<meta property="og:title" content='When "play styles" are actually all different games' />
+		<meta property="og:description" content="Read RShift's Star★Vaders review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Star-Vaders.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Star-Vaders" />
 		<meta property="og:type" content="website" />
 		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
 		<meta property="og:locale" content="en_GB" />
 		<meta property="og:image:width" content="720"/>
 		<meta property="og:image:height" content="1024"/>
 		<meta property="og:image:type" content="image/webp"/>
-		<meta property="og:image:alt" content="TI NDASH Review"/>
+		<meta property="og:image:alt" content="Star★Vaders Review"/>
 		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
 
 		<style>
@@ -32,7 +32,7 @@
 			--background-color3: #650002;
 			--text-color: #fff0f0;
 			--subtext-color: #e2dbdb;
-			--accent-color1: #ef3038;
+			--accent-color1: #ff462e;
 			--accent-color2: #73221f;
 			--link-color: #c2d0ff;
 			--link-color-hover: #d9e2ff;
@@ -56,30 +56,42 @@
 		<div class="window content">
 			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
 			<div class="app">
-				<h1 class="subtitled">TI NDASH</h1>
+				<h1 class="subtitled">Star★Vaders</h1>
 				<h4><i></i></h4>
                 <hr>
 				<table class="info">
                     <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
-					<tr><td colspan="2"><div class="info-cover"><img src="./cover/TI-DASH.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Star-Vaders.webp" alt="" style="max-width:55%;"></div></td></tr>
 					<tr><td colspan="2"><hr></td></tr>
 					<tr><th class="info-label">Season: </th><td>X</td></tr>
-					<tr><th class="info-label">Contract: </th><td></td></tr>
-                    <tr><th class="info-label">Contractor: </th><td></td></tr>
-                    <tr><th class="info-label">Completed: </th><td></td></tr>
+					<tr><th class="info-label">Contract: </th><td>Aria's Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>Main objectives</td></tr>
 					<tr><td colspan="2"><hr></td></tr>
-					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
-					<tr><th class="info-label">Author: </th><td></td></th></tr>
-					<tr><th class="info-label">Date: </th><td></td></th></tr>
-					<tr><th class="info-label">Type: </th><td></td></tr>
-					<tr><th class="info-label">Genre: </th><td></td></tr>
-                    <tr><th class="info-label">Link: </th><td><a href="">Anilist</a></td></tr>
+					<tr><th class="info-label">Format: </th><td>Game</td></tr>
+					<tr><th class="info-label">Developer: </th><td>Star Vaders Studio</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2025</td></th></tr>
+					<tr><th class="info-label">Genre: </th><td>Deck building, Strategy</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://store.steampowered.com/app/2097570/StarVaders/">Steam</a></td></tr>
                 </table>
-<h2></h2>
-<p></p>
+<h2>When "play styles" are actually all different games</h2>
+<p>Hello, welcome to my review about Star★Vaders ! I completed the required achievements in 27 hours, before the big 2.0 update, and didn't play after they were met. I may play more later, but I don't think that it'll be in a near future, since some parts are pretty boring to me.</p>
+
+<p>When the game started, and the tutorial run was crushed by my improvised deck, I thought that beating the game would be quick and easy, only a matter of playing enough runs to complete the challenges for 3 characters. Then I started my first Apocalypse run. And then I understood that, having unlocked some cards, it became difficult to gather the ones I wanted. Even worse, I would have to adapt to the randomness of cards from the beginning to the very end of a run, going through all the drops that occur randomly. The best solution I found was to stick to a deck style only after the first boss, since it gives a powerful artifact and some of these bosses are very tough to beat if choosing a style too early (like Eclipse).</p>
+
+<p>The graphic style of the game is wonderful, each asset is detailed, has a beautiful art related, and all of this is consistent and yet allows each class to hold an atmosphere. I was stunned by the quality of the art, and even a bit sad to know that this beautiful art for characters was not much used outside of the menus.</p>
+
+<p>I began to play the challenges with Zekke (the 3rd gunner), but quickly changed to the Stingers, because I loved how speedy they were, throwing things and shocking enemies to play endless turns. However, I could never understand how to play the Keeper class correctly. I always have useless turns with nothing to do, then useless turns with nothing to control... I really don't get it, and barely managed to complete the easier run on each character. <br>
+As I said in the title, what really impressed me is that each class is basically another way of playing, and every character in these class completely change the play style, the cards taken, the synergies... the game simply hold many smaller games, that share the same enemies and concept, but requires to learn a whole different bunch of strategies. This kind of work from a so little team is quite impressive, I can't find any drawback to such design</p>
+
+<p>The enemies were also fun to discover, each one has its own patterns, some randomness and even synergies with other enemies. The main strength of the game is its bosses, they are all special in a way, have very unique effects and battles, and understanding all of them was a thrill. Of course, some of them felt unbeatable, like Orpheus in the early game, but I loved a final boss that no one liked: the Grandmaster. I mean, it's one of the few bosses that can be killed in one turn, and it's the easiest one since it's at the end of the run.<br>
+I only found that the real final boss (the blue woman thing) was a bit unfair for some decks, and it took me a few attempts to beat her. It's not because she is too strong, but rather because beating a wave too fast made me struggle to beat the next one spawning instantly.</p>
+
+<p>The only negative point I found is that the weight of randomness becomes absurd in the higher difficulties. Leaving the game as is, it's real hard to pass the first boss, and almost impossible to have a decent run to the end. Activate the sandbox to reduce randomness, and the game is too easy since you can stick with an idea and stomp all enemies. I know this is hard to find a balance in random based games, and this balance was found for the normal difficulties, but would need a rework on the challenges.</p>
 
 <h3>Conclusion</h3>
-<p></p>
+<p>The stiff spike of difficulty in challenges made me use the sandbox option, and made the game a bit uninteresting because very long and a bit repetitive. I may try to play again to discover the content of future updates, but I don't think I'll try to get all achievements.<br>
+Still, the quality of the game and the amount of content is impressive for such a small team, especially for their first game ! It's a 7/10 !</p>
 			</div>
 		</div>
 	</body>
