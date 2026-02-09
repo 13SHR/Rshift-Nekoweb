@@ -12,7 +12,7 @@
 		<title>Dead Dead Demons DeDeDeDe Destruction - Review</title>
 
 		<!-- Discord Embed -->
-		<meta property="og:title" content="TITLE" />
+		<meta property="og:title" content="A disturbingly beautiful chaotic end of the world" />
 		<meta property="og:description" content="Read RShift's Dead Dead Demons DeDeDeDe Destruction review right now ! This is a contract from Season X of Anicord Event Server." />
 		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Dead-Dead-Demons-DeDeDeDe-Destruction.webp" />
 		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Dead-Dead-Demons-DeDeDeDe-Destruction" />
@@ -23,7 +23,7 @@
 		<meta property="og:image:height" content="1024"/>
 		<meta property="og:image:type" content="image/webp"/>
 		<meta property="og:image:alt" content="Dead Dead Demons DeDeDeDe Destruction Review"/>
-		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
+		<meta name="theme-color" content="#3bf078"  /> <!-- Accent color 1-->
 
 		<style>
 		:root {
