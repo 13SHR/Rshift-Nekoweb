@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/aes/Historie">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Historie - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="Following an Ancient Genius of Macedonia" />
+		<meta property="og:description" content="Read RShift's Historie review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Historie.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Historie" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Historie Review"/>
+		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #020017;
+			--background-color3: #04002C;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #4db7ff;
+			--accent-color2: #73221f;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Historie</h1>
+				<h4><i></i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Historie.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Arcana Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>12/12 Volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Hitoshi Iwaaki</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2003</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Historical, Politics, War</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/32924/Historie/">Anilist</a></td></tr>
+                </table>
+<h2>Following an Ancient Genius of Macedonia</h2>
+<p>Welcome everyone to my review about Historie ! I was really interested in this manga, since I usually like hearing about history and how people thought about science, politics and philosophy. I was not disappointed at all, with this work, since it follows the life of Eumenes, a real guy who did everything depicted in the manga, even if some parts of his life are blurry.</p>
+
+<p>The story is quite hard to sum up, since it basically tells how Eumenes arrived in the court of Phillip 2, king of Macedonia. This goes through a nice depiction of how people in those times thought about politics, how classes were set up depending on the city, and especially how the king chose his close men.<br>
+The author emphasizes on the huge upward social mobility of Eumenes, who made it to almost the left arm of the king, just by being super smart and honest. Thus it shows how people from different social standing interacted in the noble society, even between people of the same age.</p>
+
+<p>The artistic style of the author is quite consistent, there is no sudden exhilarating frame, and it looks like simple yet expressive manga. I have mixed feelings about the faces of the characters, they often show expression vividly, but sometimes they have "funny" faces that pretty much say nothing, which may be wanted but kind of loses me. The only thing to note is that the manga is quite gore, and abrupt about violence in general. I already knew about this, since it's the same author who made Parasyte, but I was still uneasy in some scenes.</p>
+
+<p>I usually don't like stories about a smart main character always winning, but for some reason, in this manga it is told in a way that makes it cool to discover what strategy he thought of, and what goal he set in life. I think this may be because he is lost in this new country that is Macedonia, like we are, and following his thoughts helps understanding this environment with the ideas of this era. It was quite amusing to read.</p>
+
+<h3>Conclusion</h3>
+<p>I'm a bit sad to see this manga in hiatus, it already took a long time for him to gather his work in a 12th volume, but I'm sure he will eventually publish more ! The last few pages were... traumatizing, so I wish to read more about Eumenes, and how he became the man we know today. 8.5/10 !</p>
+			</div>
+		</div>
+	</body>
+</html>

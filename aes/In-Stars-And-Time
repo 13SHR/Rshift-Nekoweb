@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/aes/In-Stars-And-Time">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>In Stars And Time - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="Exploring human psychology: the game" />
+		<meta property="og:description" content="Read RShift's In Stars And Time review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/In-Stars-And-Time.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/In-Stars-And-Time" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="In Stars And Time Review"/>
+		<meta name="theme-color" content="#ef3038"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #222;
+			--background-color2: #111;
+			--background-color3: #000;
+			--text-color: #fff;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #222;
+			--accent-color2: #73221f;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body style="background: url(./cover/isat-bg.png) repeat;">
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">In Stars And Time</h1>
+				<h4><i></i></h4>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/In-Stars-And-Time.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Arcana Special</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>Base</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Game</td></tr>
+					<tr><th class="info-label">Developer: </th><td>insertdisc5</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2023</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>RPG, Loops</td></tr>
+					<tr><th class="info-label">Topics: </th><td>Life, Happiness, Past</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://www.instarsandtime.com/">Official Site</a></td></tr>
+                </table>
+<h2>Exploring human psychology: the game</h2>
+<p>Welcome to my review about In Stars and Time ! This is a very long game, so I couldn't complete it at 100%, but I might play it in a few years to enjoy the story again and complete it. I didn't know this game before, but after looking a bit about it I found that quite a lot of people were real fans of this game, so I played it with quite a hype.</p>
+
+<p>The game itself starts by introducing the player to the characters, and thus explaining the relationships between all of them. Then comes the loops, explaining at the same time that Siffrin is conscious of looping. Quickly the story becomes a maze that has to be explored by the player to go through the game, and I won't spoil it further because trust me, it's the core of the game. I will just say that the few acts that divide the game are all very unique and incredible to discover.</p>
+
+<p>The gameplay is pretty simple, at least the principal combats. Everything is based on rock paper scissors, and makes the basics very easy to understand. However, since there are loops, characters level are linked to a location, apart from Siffrin who remembers his skills. If this is logical, it was often a hassle to plan things ahead, since some skills are necessary and require a certain level. The only drawback is that at the end of the non-story game, it was quite boring to farm sadnesses to level up every time, and a bit difficult to find where to look for clues and progress in the story.<br>
+There was also a big big difficulty spike when I had to beat the king for the first time, and I only managed to do so after randomly discovering the bomb. That was quite a frustrating time.</p>
+
+<p>The characters are made to be emotionally bound to the player, they all have their own background, their own past and story, they interact with Siffrin in an adorable way like a family. Again, I won't spoil those beautiful moments of virtual life I had with them, nor the sometimes heartbreaking ones, but trust me this is something.<br>
+The developer also made a huge work on the art part, the amount of emotion sprites for each character, plus the few full art, plus the menu... Everything is so cute and well made ! The characters quests arts are insane too.<br>
+The music is also pretty nice, every mood and place has its own energy, it's just that after a hundred loops it's comfier in silence, especially that darn village music. I will have it in mind all my life.</p>
+
+<h3>Conclusion</h3>
+<p>I was shocked by the amount of life lessons I took in this game. I more or less played most of the game in a week, and going through it at this pace made me feel so much emotions, I'm confused that no one knows about this game around me. As always, Frazzle has insane recommendations, thank you so much for this one. 9.5/10</p>
+			</div>
+		</div>
+	</body>
+</html>

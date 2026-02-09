@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="icon" href="../favicon.ico" sizes="any" />
+		<link rel="canonical" href="https://rshift.nekoweb.org/aes/Koroshiya-Yametai">
+		<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+		
+		<title>Koroshiya Yametai! - Review</title>
+
+		<!-- Discord Embed -->
+		<meta property="og:title" content="A love story about a killer ? Sounds fun" />
+		<meta property="og:description" content="Read RShift's Koroshiya Yametai! review right now ! This is a contract from Season X of Anicord Event Server." />
+		<meta property="og:image" content="https://rshift.nekoweb.org/aes/cover/Koroshiya-Yametai.webp" />
+		<meta property="og:url" content="https://rshift.nekoweb.org/aes/Koroshiya-Yametai" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Rshift AES NekoPage - 猫web" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="og:image:width" content="720"/>
+		<meta property="og:image:height" content="1024"/>
+		<meta property="og:image:type" content="image/webp"/>
+		<meta property="og:image:alt" content="Koroshiya Yametai! Review"/>
+		<meta name="theme-color" content="#83e3f8"  /> <!-- Accent color 1-->
+
+		<style>
+		:root {
+			--background-color1: #000;
+			--background-color2: #1a1110;
+			--background-color3: #650002;
+			--text-color: #fff0f0;
+			--subtext-color: #e2dbdb;
+			--accent-color1: #ef3038;
+			--accent-color2: #73221f;
+			--link-color: #c2d0ff;
+			--link-color-hover: #d9e2ff;
+			/* Invert = on accent color 1 */
+			--invert-text-color: white;
+			--invert-accent1: white;
+			--invert-accent2: white;
+		}</style>
+
+		<!-- Import Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<script src="../oneko.js"></script>
+		<div class="window content">
+			<div class="header mono invert"><a href="."><- Go back to main page</a></div>
+			<div class="app">
+				<h1 class="subtitled">Koroshiya Yametai!</h1>
+                <hr>
+				<table class="info">
+                    <tr><th colspan="2" class="info-head">Quick Facts</th></tr>
+					<tr><td colspan="2"><div class="info-cover"><img src="./cover/Koroshiya-Yametai.webp" alt="" style="max-width:55%;"></div></td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Season: </th><td>X</td></tr>
+					<tr><th class="info-label">Contract: </th><td>Arcana</td></tr>
+                    <tr><th class="info-label">Contractor: </th><td>Frazzle</td></tr>
+                    <tr><th class="info-label">Completed: </th><td>4/4 Volumes</td></tr>
+					<tr><td colspan="2"><hr></td></tr>
+					<tr><th class="info-label">Format: </th><td>Manga</td></tr>
+					<tr><th class="info-label">Author: </th><td>Sun Tonoki</td></th></tr>
+					<tr><th class="info-label">Date: </th><td>2021-2022</td></th></tr>
+					<tr><th class="info-label">Type: </th><td>Seinen</td></tr>
+					<tr><th class="info-label">Genre: </th><td>Yuri, Action</td></tr>
+                    <tr><th class="info-label">Link: </th><td><a href="https://anilist.co/manga/147510/Koroshiya-Yametai/">Anilist</a></td></tr>
+                </table>
+<h2>A love story about a killer ? Sounds fun</h2>
+<p>Welcome to my review about Koroshiyo Yametai ! It means "I wanna be fired", and it sums up pretty well the story, that is a woman employed as a killer, Rose, who wants to quit her job to love another girl, Benika. This was a very intriguing scenario so I was quite excited to read this short manga.</p>
+
+<p>I thought the story would focus on the difficult romance between the two girls, but it rather explored how Rose managed the awkward situation between all characters. I was a bit disappointed to understand that the yuri romance would fall in the background. What's more, the plot behind all this is nothing complex, only two factions fighting against the same person for different reasons, and some events felt quite underwhelming. The few battles held not so much suspense, since the outcome is always for Rose to find an unexpected solution.<br>
+Even the end was unsatisfying, I didn't understand most of the outcome, and Rose doesn't leave with her true appearance.</p>
+
+<p>The overall style of the manga is somehow modern, there is no real particularity nor issues in this work. The only thing interesting to note is that despite all the disguises of Rose, each time she remains recognizable. The places are well designed, and there are beautiful details in the church.</p>
+
+<h3>Conclusion</h3>
+<p>The potential of this manga was really high, but by focusing on the slightly boring action, I completely lost interest in the story, and the end was representative of this. Overall, I keep a feeling of a "childish" manga, holding no real stake. This may be symptoms of a first manga by its author, and I'm sure they will improve ! 3/10</p>
+			</div>
+		</div>
+	</body>
+</html>
