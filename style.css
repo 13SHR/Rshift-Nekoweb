@@ -6,7 +6,7 @@
 	--subtext-color: #e9e1e977;
 	--accent-color1: #ff6d6d;
 	--accent-color2: #ff3d64;
-	--overlay-color: #000a;
+	--overlay-color: #000c;
 	--link-color: var(--accent-color1);
 	--link-color-hover: var(--accent-color2);
 	/* Invert = on accent color 1 */
@@ -23,7 +23,7 @@ body {
     font-family: "Goudy Bookletter 1911", serif;
     color: var(--text-color);
 	background-color: var(--background-color1);
-	font-size: 18px;
+	font-size: 1.3em;
 }
 
 .mono {
