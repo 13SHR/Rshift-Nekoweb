@@ -4,7 +4,7 @@
 	--background-color3: #2f3d4d;
 	--text-color: #dce2e5;
 	--subtext-color: #e9e1e977;
-	--accent-color1: #ca1347;
+	--accent-color1: #ff6d6d;
 	--accent-color2: #ff3d64;
 	--overlay-color: #000a;
 	--link-color: var(--accent-color1);
@@ -13,6 +13,10 @@
 	--invert-text-color: var(--text-color);
 	--invert-accent1: var(--text-color);
 	--invert-accent2: #452c21;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 body {
@@ -132,62 +136,46 @@ li {
 	display: grid;
 	grid-template-rows: repeat(auto-fill, 210px);
 	grid-template-columns: repeat(auto-fill, 150px);
-	grid-gap: 30px;
+	justify-content: space-evenly;
+	grid-gap: 15px;
 	padding: 5px;
 }
 
-.grid-entry, .grid-entry:hover {
-	display: block;
+.grid-entry {
+	display: inline-block;
 	position: relative;
-	margin: 0px;
-	width: 150px;
+	width: 100%;
 	height: 210px;
 	border-radius: 5px;
-	background-size: cover;
 	text-decoration: none;
-	z-index: 1;
+	box-sizing: border-box;		
 }
 
-.grid-entry::before {
-	content: "";
-
-	position: relative;
-	display: block;
-	inset: 0;
+.grid-entry img {
+	position: absolute;
+	left: 0;
+	top: 0;
 	width: 100%;
 	height: 100%;
 	z-index: 0;
 
-	background: var(--overlay-color);
-	opacity: 0;
-	transition: opacity 0.3s ease;
-    border-radius: 5px;
-
-	overflow: hidden;
-}
-  
-.grid-entry:hover::before {
-	opacity: 1;
+	border-radius: 5px;
 }
 
-.grid-entry span {
-	display: flex;
-	position: relative;
+.grid-entry div {
+	position: absolute;
 	width: 100%;
-	height: 100%;
-	top: -100%;
-	opacity: 0;
-	z-index: 1;
-	transition: opacity 0.3s ease;
+	bottom: 0;
+	left: 0;
+	z-index: 2;
+	padding: 12px;
 
-	justify-content: center;
-	align-items: center;
-	text-align: center;
-	text-wrap: stable;
-}
+	color: var(--text-color);
+	word-break: break-word;
+	text-align: left;
 
-.grid-entry span:hover  {
-	opacity: 1;
+	background: var(--overlay-color);
+	border-radius: 0 0 5px 5px;
 }
 
 @media (max-width: 768px) {
