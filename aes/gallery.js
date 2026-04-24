@@ -10,9 +10,6 @@ document.querySelectorAll('.grid-entry').forEach(entry => {
         color = defaultAccent;
     }
   
-    entry.style.cssText += `background-image: url('cover/${id}.webp'); color: ${color};`;
-
-    
     ['pointerenter', 'focusin'].forEach(t => {
         entry.addEventListener(t, () => {
             document.documentElement.style.setProperty('--accent-color1', color);
